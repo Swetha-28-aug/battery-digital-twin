@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/
+cleaned_dataset/
+CS2_35/
+CS2_36/
+CS2_37/
+CS2_38/
